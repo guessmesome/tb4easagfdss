@@ -1,7 +1,7 @@
 const productLinks = {
-    product1: "https://trnsfx.ru/go/sfklcz9px6",
-    product2: "https://trnsfx.ru/go/su71k51zx9",
-    product3: "https://trnsfx.ru/go/sybokiosr4",
-    product4: "https://trnsfx.ru/go/s89h285zev"
+    product1: "https://vldmnt.ru/go/soyn9s826b",
+    product2: "https://vldmnt.ru/go/s7wuvny7mz",
+    product3: "https://vldmnt.ru/go/s4yu9369wx",
+    product4: "https://vldmnt.ru/go/s7j7lnjn9z"
 };
 
